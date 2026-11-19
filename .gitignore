@@ -1,3 +1,7 @@
+# ==========================================
+# ARCHIVOS QUE GIT DEBE IGNORAR
+# ==========================================
+
 # Archivos generados automáticamente por Python
 __pycache__/
 *.pyc
@@ -9,9 +13,5 @@ venv/
 # Archivos temporales
 *.tmp
 
-# Ignorar archivos generados por Python
-__pycache__/
-*.pyc
-
-# Ignorar los archivos de nuestras prácticas
+# Archivos generados por nuestros ejercicios
 archivos_practica/
