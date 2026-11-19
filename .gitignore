@@ -15,3 +15,6 @@ venv/
 
 # Archivos generados por nuestros ejercicios
 archivos_practica/
+
+# Historial generado por la máquina de café
+maquina_de_cafe/pedidos.txt
