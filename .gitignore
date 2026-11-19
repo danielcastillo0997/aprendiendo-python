@@ -1,0 +1,17 @@
+# Archivos generados automáticamente por Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos temporales
+*.tmp
+
+# Ignorar archivos generados por Python
+__pycache__/
+*.pyc
+
+# Ignorar los archivos de nuestras prácticas
+archivos_practica/
